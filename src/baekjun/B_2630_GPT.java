@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-// 백준 실버2 2630번 색종이 만들기
+// 백준 실버2 2630번 색종이 만들기 - 재귀, 분할 정복
 // 2025 09 30
 public class B_2630_GPT {
   static int N;
