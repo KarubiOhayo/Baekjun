@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 
 // 백준 2579 계단 오르기
 // DP
+// 2025.10.16
 public class B_2579_GPT {
 
   static int[] dp;
